@@ -1,0 +1,28 @@
+name: A GIFT OF COFFEE
+favicon: null
+layout_spectrum: 0.13572815130464733
+typography_spectrum: 0.20912372111342847
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3187540026847273
+  lightness: 0.4097622779663652
+  saturation: 0.6246168832294643
+  rhythmicContrast: 0.4898322010412812
+purpose: []
